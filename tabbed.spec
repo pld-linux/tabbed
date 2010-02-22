@@ -6,6 +6,7 @@ Version:	0.2
 Release:	0.%{commit}.1
 License:	MIT
 Group:		Applications
+# hg clone http://hg.suckless.org/tabbed
 Source0:	%{name}-%{version}-%{commit}.tar.bz2
 # Source0-md5:	d0914cdcbcb9c9707afb7a5ea5e4c5d6
 URL:		http://tools.suckless.org/tabbed
